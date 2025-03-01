@@ -2,118 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Garyzhang/</loc>
-    <lastmod>2025-03-01T12:04:47+08:00</lastmod>
+    <loc>https://ztygary.github.io/Garyzhang/</loc>
+    <lastmod>2025-03-01T10:49:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Garyzhang/en/"
+                href="https://ztygary.github.io/Garyzhang/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/Garyzhang/"
+                href="https://ztygary.github.io/Garyzhang/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/p/newnew/</loc>
-    <lastmod>2025-03-01T12:04:47+08:00</lastmod>
+    <loc>https://ztygary.github.io/Garyzhang/categories/</loc>
+    <lastmod>2025-03-01T10:49:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ztygary.github.io/Garyzhang/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ztygary.github.io/Garyzhang/categories/"
+                />
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/post/</loc>
-    <lastmod>2025-03-01T12:04:47+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Garyzhang/p/new/</loc>
-    <lastmod>2025-03-01T11:55:17+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Garyzhang/p/firstblog/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/p/firstblog/</loc>
     <lastmod>2025-03-01T10:49:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/categories/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Garyzhang/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/Garyzhang/categories/"
-                />
+    <loc>https://ztygary.github.io/Garyzhang/post/</loc>
+    <lastmod>2025-03-01T10:49:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/p/test-chinese/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/categories/test/</loc>
+    <lastmod>2025-03-01T10:49:08+08:00</lastmod>
+  </url><url>
+    <loc>https://ztygary.github.io/Garyzhang/p/test-chinese/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/categories/test/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Garyzhang/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Garyzhang/page/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/archives/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/tags/css/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/tags/html/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/tags/markdown/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/p/markdown-syntax-guide/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Garyzhang/tags/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Garyzhang/en/tags/"
+                href="https://ztygary.github.io/Garyzhang/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/Garyzhang/tags/"
+                href="https://ztygary.github.io/Garyzhang/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/categories/themes/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Garyzhang/p/placeholder-text/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/tags/tag-with-whitespaces/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/categories/test-with-whitespaces/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Garyzhang/p/math-typesetting/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/tags/emoji/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/p/emoji-support/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>http://localhost:1313/Garyzhang/search/</loc>
+    <loc>https://ztygary.github.io/Garyzhang/search/</loc>
   </url>
 </urlset>
