@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Gary Zhang</title>
-        <link>https://ztygary.github.io/Garyzhang/categories/</link>
+        <link>http://localhost:1313/Garyzhang/categories/</link>
         <description>Recent content in Categories on Gary Zhang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Gary_Zhang</copyright>
-        <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ztygary.github.io/Garyzhang/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Garyzhang/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
-        <link>https://ztygary.github.io/Garyzhang/categories/test/</link>
+        <link>http://localhost:1313/Garyzhang/categories/test/</link>
         <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ztygary.github.io/Garyzhang/categories/test/</guid>
-        <description>&lt;img src="https://ztygary.github.io/Garyzhang/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>http://localhost:1313/Garyzhang/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/Garyzhang/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>测试</title>
-        <link>https://ztygary.github.io/Garyzhang/categories/%E6%B5%8B%E8%AF%95/</link>
+        <link>http://localhost:1313/Garyzhang/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ztygary.github.io/Garyzhang/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>http://localhost:1313/Garyzhang/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>https://ztygary.github.io/Garyzhang/categories/syntax/</link>
+        <link>http://localhost:1313/Garyzhang/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ztygary.github.io/Garyzhang/categories/syntax/</guid>
+        <guid>http://localhost:1313/Garyzhang/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://ztygary.github.io/Garyzhang/categories/themes/</link>
+        <link>http://localhost:1313/Garyzhang/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ztygary.github.io/Garyzhang/categories/themes/</guid>
+        <guid>http://localhost:1313/Garyzhang/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Test With Whitespaces</title>
-        <link>https://ztygary.github.io/Garyzhang/categories/test-with-whitespaces/</link>
+        <link>http://localhost:1313/Garyzhang/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ztygary.github.io/Garyzhang/categories/test-with-whitespaces/</guid>
+        <guid>http://localhost:1313/Garyzhang/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         
